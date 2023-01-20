@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5feb4e37-d755-4032-9473-b17ee95e47c1</webElementGuid>
+      <webElementGuid>bb7c7aca-c4fc-4fae-b38e-550f3a933945</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>c81989b6-c8e5-4c9f-be79-a369e093964c</webElementGuid>
+      <webElementGuid>11212e8b-c7c2-454f-b6c8-2a7785bff828</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>submit-button btn_action</value>
-      <webElementGuid>91a0b3f7-72d5-45c4-b9e2-dd9c0a0d3d5d</webElementGuid>
+      <webElementGuid>36e4facc-ae65-4118-8a49-42fe43ef999e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-test</name>
       <type>Main</type>
       <value>login-button</value>
-      <webElementGuid>96e50f4e-7241-4d50-87d3-9f6ad3af1d35</webElementGuid>
+      <webElementGuid>26d387f5-def6-40c0-b1ed-7a8a2fa2a06e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>login-button</value>
-      <webElementGuid>fbd67d94-4368-47d1-ada9-a8cc3ca73012</webElementGuid>
+      <webElementGuid>0ea33df8-1e9e-4500-a303-9c9e1311a87d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>name</name>
       <type>Main</type>
       <value>login-button</value>
-      <webElementGuid>2ec6b889-dd96-4d7c-b520-fb89c4d4359d</webElementGuid>
+      <webElementGuid>92c4bbdb-3143-414b-b453-9597ca1234ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Login</value>
-      <webElementGuid>61ef92b1-3783-450c-ad9b-bec1f730629b</webElementGuid>
+      <webElementGuid>711343ed-fcc9-4900-b78c-2f3eea427720</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login-button&quot;)</value>
-      <webElementGuid>d2a86315-48c1-4634-8402-9928b107070b</webElementGuid>
+      <webElementGuid>87f74c09-1599-4e99-8bb4-a4173b49b231</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='login-button']</value>
-      <webElementGuid>0359f674-ee22-4ec6-aaeb-0e03444223f8</webElementGuid>
+      <webElementGuid>e60bb304-80a1-4b7e-b515-efdbfc38b343</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='login_button_container']/div/form/input</value>
-      <webElementGuid>a217d0fa-9854-460c-9df4-98895cb7dd2d</webElementGuid>
+      <webElementGuid>ce1213ec-a673-4314-87cb-312aa7d0d809</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/input</value>
-      <webElementGuid>f90f68d2-50cf-4d93-a327-0a6e8b555221</webElementGuid>
+      <webElementGuid>d34dd655-9e32-4827-af89-32aaddaae953</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @id = 'login-button' and @name = 'login-button']</value>
-      <webElementGuid>615c0f32-98d3-4032-b017-0f4da801510b</webElementGuid>
+      <webElementGuid>e02b5ffc-bfc1-43af-b142-1d81d4781518</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
