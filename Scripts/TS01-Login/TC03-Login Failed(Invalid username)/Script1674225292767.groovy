@@ -21,16 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.saucedemo.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/div_Accepted usernames arestandard_userlock_0ab16f'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac'), 'performance_glitch_user')
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/div_Password for all userssecret_sauce'))
+WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac'), 'asdasda')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9'), 
     'qcu24s4901FyWDTwXGr6XA==')
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/h3_Epic sadface Username and password do no_0e8909'), 
+    'Epic sadface: Username and password do not match any user in this service')
 
 WebUI.closeBrowser()
 
