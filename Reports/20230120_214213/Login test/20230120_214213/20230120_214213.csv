@@ -1,0 +1,29 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login test,Chrome 109.0.0.0,,,2023-01-20 21:42:16,2023-01-20 21:42:40,23.739s,PASSED
+,,,,,,,
+Test Cases/TS01-Login/TC01-Login Successfully data1,Chrome 109.0.0.0,Login success using valid username and valid password,Login,2023-01-20 21:42:16,2023-01-20 21:42:24,7.709s,PASSED
+"openBrowser("""")",Chrome 109.0.0.0,,,2023-01-20 21:42:17,2023-01-20 21:42:20,2.734s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Chrome 109.0.0.0,,,2023-01-20 21:42:20,2023-01-20 21:42:20,0.389s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9""), password)",Chrome 109.0.0.0,,,2023-01-20 21:42:20,2023-01-20 21:42:21,0.915s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac""), username)",Chrome 109.0.0.0,,,2023-01-20 21:42:21,2023-01-20 21:42:22,0.715s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71""))",Chrome 109.0.0.0,,,2023-01-20 21:42:22,2023-01-20 21:42:22,0.743s,PASSED
+"verifyTextPresent(""PRODUCTS"", false)",Chrome 109.0.0.0,,,2023-01-20 21:42:22,2023-01-20 21:42:23,0.444s,PASSED
+closeBrowser(),Chrome 109.0.0.0,,,2023-01-20 21:42:23,2023-01-20 21:42:24,1.174s,PASSED
+,,,,,,,
+Test Cases/TS01-Login/TC01-Login Successfully data1,Chrome 109.0.0.0,Login success using valid username and valid password,Login,2023-01-20 21:42:24,2023-01-20 21:42:30,5.453s,PASSED
+"openBrowser("""")",Chrome 109.0.0.0,,,2023-01-20 21:42:24,2023-01-20 21:42:25,1.142s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Chrome 109.0.0.0,,,2023-01-20 21:42:25,2023-01-20 21:42:26,0.444s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9""), password)",Chrome 109.0.0.0,,,2023-01-20 21:42:26,2023-01-20 21:42:27,0.931s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac""), username)",Chrome 109.0.0.0,,,2023-01-20 21:42:27,2023-01-20 21:42:27,0.829s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71""))",Chrome 109.0.0.0,,,2023-01-20 21:42:27,2023-01-20 21:42:28,0.461s,PASSED
+"verifyTextPresent(""PRODUCTS"", false)",Chrome 109.0.0.0,,,2023-01-20 21:42:28,2023-01-20 21:42:28,0.430s,PASSED
+closeBrowser(),Chrome 109.0.0.0,,,2023-01-20 21:42:28,2023-01-20 21:42:30,1.206s,PASSED
+,,,,,,,
+Test Cases/TS01-Login/TC01-Login Successfully data1,Chrome 109.0.0.0,Login success using valid username and valid password,Login,2023-01-20 21:42:30,2023-01-20 21:42:40,9.980s,PASSED
+"openBrowser("""")",Chrome 109.0.0.0,,,2023-01-20 21:42:30,2023-01-20 21:42:31,1.256s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Chrome 109.0.0.0,,,2023-01-20 21:42:31,2023-01-20 21:42:31,0.394s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9""), password)",Chrome 109.0.0.0,,,2023-01-20 21:42:31,2023-01-20 21:42:32,0.989s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac""), username)",Chrome 109.0.0.0,,,2023-01-20 21:42:32,2023-01-20 21:42:33,0.809s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71""))",Chrome 109.0.0.0,,,2023-01-20 21:42:33,2023-01-20 21:42:39,5.451s,PASSED
+"verifyTextPresent(""PRODUCTS"", false)",Chrome 109.0.0.0,,,2023-01-20 21:42:39,2023-01-20 21:42:39,0.421s,PASSED
+closeBrowser(),Chrome 109.0.0.0,,,2023-01-20 21:42:39,2023-01-20 21:42:40,0.643s,PASSED
