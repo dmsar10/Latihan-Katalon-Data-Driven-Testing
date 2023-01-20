@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with the fouth valid username and valid password</description>
+   <name>TC04-Login Successfully data4</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>8910d5ee-2ee3-4ce9-b4ff-d33d8903ba42</testCaseGuid>
+</TestCaseEntity>

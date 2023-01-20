@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with a second valid usernames and valid password</description>
+   <name>TC02-Login failed (Sorry this user has been locked out)</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>50be292e-f9de-478e-90fb-be8459e5357a</testCaseGuid>
+</TestCaseEntity>

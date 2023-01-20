@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with third valid username and valid password</description>
+   <name>TC03-Login Successfully data3</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>9fa0c258-cf5b-4bac-8b66-b9d519a2215f</testCaseGuid>
+</TestCaseEntity>
