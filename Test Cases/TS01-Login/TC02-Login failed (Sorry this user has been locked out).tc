@@ -5,4 +5,30 @@
    <tag>Login</tag>
    <comment></comment>
    <testCaseGuid>50be292e-f9de-478e-90fb-be8459e5357a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>58e6ab1d-9548-45ce-acd5-549782bfd090</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>39ba9fa9-5927-4068-a34e-2953ab902779</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'locked_out_user'</defaultValue>
+      <description></description>
+      <id>58e6ab1d-9548-45ce-acd5-549782bfd090</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'secret_sauce'</defaultValue>
+      <description></description>
+      <id>39ba9fa9-5927-4068-a34e-2953ab902779</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
 </TestCaseEntity>
